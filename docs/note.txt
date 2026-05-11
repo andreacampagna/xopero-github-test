@@ -1,0 +1,2 @@
+File di documentazione creato per testare backup e restore GitHub tramite Xopero ONE.
+Versione iniziale del documento.
